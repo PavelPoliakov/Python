@@ -27,3 +27,4 @@ chief_accountant.get_total_income()
 print(manager.name)
 print(chief_accountant.surname)
 print(director.income)
+

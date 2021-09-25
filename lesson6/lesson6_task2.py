@@ -18,3 +18,4 @@ class Road:
 
 mkad = Road(108900, 30)
 mkad.mass_of_asphalt()
+
